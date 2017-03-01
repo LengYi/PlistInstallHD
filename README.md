@@ -20,13 +20,13 @@ Install 文件夹下主要为需要安装的IPA资源包，安装过程中显示
  其它注意事项
  		<dict>
 				<key>bundle-identifier</key>
-				<string>com.sinaduuldl.kk</string>     // 包的sku必须跟安装包的sku一致
+				<string>com.tongbu.tuihd.Z2H3GSNJHN</string>     // 包的sku
 				<key>bundle-version</key>
-				<string>1.0.0</string>				   // 必须跟包的版本号一致，跟包info.plist 同键的值一样
+				<string>3.1.1</string>				   // 包的版本号
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>kkMusicPlayer</string>          // 提示安装时弹出的名称
+				<string>同步推正版HD</string>          // 提示安装时弹出的名称
 			</dict>
 
 以上都改好了,再次更新Git，然后访问你的主要地址，就可以静静的等待安装了。：）。
